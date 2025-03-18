@@ -1,8 +1,12 @@
 challa saikumar
 MCA From Loyola 
 Accenture
+<<<<<<< HEAD
 MOnday
 Tuesday 
 wednesday
 Thursday
 
+=======
+:wq
+>>>>>>> cee48b6caca766fd404c62d8f6beb516ffd1f1bc
